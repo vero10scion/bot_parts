@@ -1,0 +1,40 @@
+{
+  "one_time": true,
+  "buttons": [[
+    {
+    "action": {
+      "type": "text",
+      "label": "Сбережения"
+    },
+      "color": "negative"
+  }, {
+    "action": {
+      "type": "text",
+      "label": "Хочу взять займ"
+    },
+      "color": "positive"
+  }
+
+  ], [
+    {
+    "action": {
+      "type": "text",
+      "label": "Проверка своей кредитной истории"
+    },
+      "color": "primary"
+  }
+  ],
+  [{
+    "action": {
+      "type": "text",
+      "label": "Проверка организации"
+    },
+      "color": "positive"
+  }, {
+    "action": {
+      "type": "text",
+      "label": "Общая информация"
+    },
+      "color": "negative"
+  }]]
+}

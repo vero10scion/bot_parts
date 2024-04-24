@@ -1,0 +1,27 @@
+{
+  "one_time": true,
+  "buttons": [[
+    {
+    "action": {
+      "type": "text",
+      "label": "Да"
+    },
+      "color": "negative"
+  },
+    {
+    "action": {
+      "type": "text",
+      "label": "Нет"
+    },
+      "color": "positive"
+  }
+  ], [
+    {
+    "action": {
+      "type": "text",
+      "label": "Назад"
+    },
+      "color": "primary"
+  }
+  ]]
+}
