@@ -1,0 +1,21 @@
+{
+  "one_time": true,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Онлайн"
+        },
+        "color": "primary"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "Офлайн"
+        },
+        "color": "primary"
+      }
+    ]
+  ]
+}

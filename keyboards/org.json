@@ -1,0 +1,48 @@
+{
+    "one_time": true,
+    "buttons": [[
+      {
+      "action": {
+        "type": "text",
+        "label": "МФК"
+      },
+        "color": "negative"
+    }, {
+      "action": {
+        "type": "text",
+        "label": "МКК"
+      },
+        "color": "positive"
+    }
+  
+    ], [
+      {
+      "action": {
+        "type": "text",
+        "label": "СКПК"
+      },
+        "color": "primary"
+    }
+    ],
+    [{
+      "action": {
+        "type": "text",
+        "label": "КПК"
+      },
+        "color": "positive"
+    }, {
+      "action": {
+        "type": "text",
+        "label": "Ломбард"
+      },
+        "color": "negative"
+    }], [
+        {
+        "action": {
+          "type": "text",
+          "label": "СРО"
+        },
+          "color": "primary"
+      }
+      ]]
+  }

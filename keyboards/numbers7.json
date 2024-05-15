@@ -1,0 +1,59 @@
+{
+    "one_time": true,
+    "buttons": [[
+      {
+      "action": {
+        "type": "text",
+        "label": "1"
+      },
+        "color": "primary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "label": "2"
+      },
+        "color": "primary"
+    }, {
+        "action": {
+          "type": "text",
+          "label": "3"
+        },
+          "color": "primary"
+    }
+    ], [
+      {
+        "action": {
+          "type": "text",
+          "label": "4"
+        },
+          "color": "primary"
+      },
+        {
+        "action": {
+          "type": "text",
+          "label": "5"
+        },
+          "color": "primary"
+      }, {
+          "action": {
+            "type": "text",
+            "label": "6"
+          },
+            "color": "primary"
+      }, {
+        "action": {
+          "type": "text",
+          "label": "7"
+        },
+          "color": "primary"
+    }
+    ], [{
+      "action": {
+        "type": "text",
+        "label": "Назад"
+      },
+        "color": "negative"
+    }
+    ]]
+  }

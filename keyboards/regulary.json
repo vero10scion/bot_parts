@@ -1,0 +1,21 @@
+{
+  "one_time": true,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Хотел(-а) бы"
+        },
+        "color": "primary"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "Не хотел(-а) бы"
+        },
+        "color": "primary"
+      }
+    ]
+  ]
+}

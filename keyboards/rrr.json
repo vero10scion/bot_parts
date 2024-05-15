@@ -1,0 +1,25 @@
+{
+  "one_time": true,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Ввод ИНН/ОГРН организации",
+          "payload": "{\"button\": \"1\"}"
+        },
+        "color": "primary"
+      }
+    ],
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Ввод наименования организации",
+          "payload": "{\"button\": \"2\"}"
+        },
+        "color": "default"
+      }
+    ]
+  ]
+}

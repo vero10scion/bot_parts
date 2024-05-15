@@ -1,0 +1,21 @@
+{
+  "one_time": true,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Регулярно"
+        },
+        "color": "primary"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "Пока разово"
+        },
+        "color": "primary"
+      }
+    ]
+  ]
+}

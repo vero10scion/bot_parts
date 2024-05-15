@@ -1,0 +1,21 @@
+{
+  "one_time": true,
+  "buttons": [
+    [
+      {
+        "action": {
+          "type": "text",
+          "label": "Хорошо, продолжить"
+        },
+        "color": "primary"
+      },
+      {
+        "action": {
+          "type": "text",
+          "label": "Я передумал(а), хочу офлайн"
+        },
+        "color": "primary"
+      }
+    ]
+  ]
+}
